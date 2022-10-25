@@ -32,3 +32,4 @@ if __name__ == '__main__':
 
         data = json.dumps(user_tasks)
         jsonfile.write(data)
+
